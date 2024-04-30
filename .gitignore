@@ -1,2 +1,5 @@
 env
 venv
+datasets/NASA/README.txt
+train/RNN-LSTM/RNN & LSTM.ipynb
+train/SVM/svm-RUL.ipynb
